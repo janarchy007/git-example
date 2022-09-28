@@ -1,2 +1,2 @@
 # git-example
-This is an example file.
+This is some new text.
